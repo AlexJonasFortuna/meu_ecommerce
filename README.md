@@ -1,2 +1,3 @@
 # meu_ecommerce
-Este é o ecommerce que criei.
+Este é o ecommerce que desenvolvi para a minha esposa:
+www.elabrilha.com
